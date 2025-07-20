@@ -8,7 +8,9 @@ import imglan from "@/assets/img/img-landing3.avif";
 import lanimg from "@/assets/img/img-landing4.avif";
 
 export const LandingPage = () => {
+
   return (
+    
     <main className="pt-20 bg-green-900 min-h-screen flex flex-col">
       <div className="px-6 mx-auto max-w-7xl flex-grow flex flex-col justify-center">
         <div className="w-full mx-auto text-center md:w-9/12 xl:w-7/12">
